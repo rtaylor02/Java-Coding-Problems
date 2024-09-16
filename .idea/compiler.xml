@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="P18_LocaleCurrency" />
+        <module name="P12_TextBlockIsomorphic" />
+        <module name="P27_PrimeFactors" />
+        <module name="P06_TextBlockEscaping" />
+        <module name="P29_RoundFloatNumber" />
+        <module name="P28_SquareRootBabylonian" />
+        <module name="P11_RegexNamedGroups" />
+        <module name="P17_LocaleOf" />
+        <module name="P02_TextBlockDelimiters" />
+        <module name="P31_MulitplyTwoIntegers" />
+        <module name="P26_FloorCeilModulus" />
+        <module name="P33_PRNGFindByProperty" />
+        <module name="P27_CountPrimeNumbers" />
+        <module name="P15_BuiltinStringTemplate" />
+        <module name="P33_PRNGSelectViaOf" />
+        <module name="P01_TextBlockSQLJSONHTML" />
+        <module name="P19_UsingStrictfpClass" />
+        <module name="P03_TextBlockIndentation" />
+        <module name="P23_GetDoubleParts" />
+        <module name="P19_UsingStrictfpInterface" />
+        <module name="P18_LocaleOfLocalizedDate" />
+        <module name="P32_UsingTau" />
+        <module name="P34_FillArrayRandomData" />
+        <module name="P30_ClampingBetweenMinMax" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="P11_RegexNamedGroups" options="--enable-preview" />
+      <module name="P15_BuiltinStringTemplate" options="--enable-preview" />
+    </option>
+  </component>
+</project>

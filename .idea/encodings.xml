@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Chapter01/P01_TextBlockSQLJSONHTML/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P01_TextBlockSQLJSONHTML/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P02_TextBlockDelimiters/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P02_TextBlockDelimiters/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P03_TextBlockIndentation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P03_TextBlockIndentation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P06_TextBlockEscaping/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P06_TextBlockEscaping/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P11_RegexNamedGroups/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P11_RegexNamedGroups/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P12_TextBlockIsomorphic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P12_TextBlockIsomorphic/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P15_BuiltinStringTemplate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P15_BuiltinStringTemplate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P17_LocaleOf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P17_LocaleOf/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P18_LocaleCurrency/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P18_LocaleCurrency/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P18_LocaleOfLocalizedDate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P18_LocaleOfLocalizedDate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P19_UsingStrictfpClass/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P19_UsingStrictfpClass/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P19_UsingStrictfpInterface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P19_UsingStrictfpInterface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P23_GetDoubleParts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P23_GetDoubleParts/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P26_FloorCeilModulus/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P26_FloorCeilModulus/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P27_CountPrimeNumbers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P27_CountPrimeNumbers/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P27_PrimeFactors/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P27_PrimeFactors/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P28_SquareRootBabylonian/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P28_SquareRootBabylonian/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P29_RoundFloatNumber/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P29_RoundFloatNumber/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P30_ClampingBetweenMinMax/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P30_ClampingBetweenMinMax/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P31_MulitplyTwoIntegers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P31_MulitplyTwoIntegers/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P32_UsingTau/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P32_UsingTau/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P33_PRNGFindByProperty/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P33_PRNGFindByProperty/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P33_PRNGSelectViaOf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P33_PRNGSelectViaOf/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P34_FillArrayRandomData/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter01/P34_FillArrayRandomData/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
